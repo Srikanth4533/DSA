@@ -10,3 +10,5 @@ function gcd(a, b) {
 
 console.log(gcd(10, 18));
 console.log(gcd(20, 28));
+
+module.exports = gcd;
